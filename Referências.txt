@@ -1,0 +1,5 @@
+Backing Fields: https://docs.microsoft.com/pt-br/ef/core/modeling/backing-field
+Batching: https://social.technet.microsoft.com/wiki/pt-br/contents/articles/35880.entity-framework-core-1-0-transacoes-em-lote-batching.aspx
+Compiled Queries: https://docs.microsoft.com/pt-br/dotnet/framework/data/adonet/ef/language-reference/compiled-queries-linq-to-entities
+                  https://imasters.com.br/linguagens/asp/query-compiled-no-entityframeworkcore-2-0/
+		  Exemplo: https://gist.github.com/anonymous/dcd4f329dc9dbb4f3f5b05ce00fe1a9b
